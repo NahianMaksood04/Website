@@ -19,6 +19,7 @@
     "astro": "^5.14.1",
     "astro-auto-import": "^0.4.4",
     "astro-font": "^1.1.0",
+    "astro-sitemap": "^1.0.0",
     "date-fns": "^4.1.0",
     "fuse.js": "^7.1.0",
     "gray-matter": "^4.0.3",
