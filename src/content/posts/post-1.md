@@ -10,7 +10,7 @@ tags: ["diy", "toy"]
 draft: false
 ---
 
-My name is Nahian Maksood.
+My name is Nahian Maksood. I am from Bangladesh.
 
 ## Creative Design
 
